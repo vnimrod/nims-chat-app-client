@@ -6,7 +6,7 @@ import queryString from 'query-string';
 import Messages from '../Messages/Messages';
 import MessageForm from '../MessageForm/MessageForm';
 
-const SERVER_URL = 'https://weinstein-nims-chat-app-client.herokuapp.com/';
+const SERVER_URL = 'https://weinstein-nims-chat-app-server.herokuapp.com/';
 
 let socket;
 
