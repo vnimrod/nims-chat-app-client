@@ -18,7 +18,7 @@ Server side: https://github.com/vnimrod/nims-chat-app-server
 <img width="885" alt="ChatRoom join" src="https://user-images.githubusercontent.com/47380906/103204496-2c7ab900-4900-11eb-9c93-6838b6c05a17.PNG">
 
 ### Chat Room - Leave the room
-<img width="885" alt="ChatRoom join" src="https://user-images.githubusercontent.com/47380906/103204743-b1fe6900-4900-11eb-9eb9-cbe2aabf4716.PNG">
+<img width="886" alt="ChatRoom leave" src="https://user-images.githubusercontent.com/47380906/103204933-15889680-4901-11eb-9359-518763c273c0.PNG">
 
 
 ## ENJOY!
